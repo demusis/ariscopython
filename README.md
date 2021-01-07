@@ -1,2 +1,2 @@
-# ariscopython
-Curso básico de Python com desenvolvimento de aplicação de análise de risco via lógica fuzzy.
+# basicopython
+Curso básico de Python com Numpy, Pandas e Matplotlib.
